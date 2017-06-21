@@ -1,3 +1,10 @@
+! Homepage: https://github.com/anhtuan161295/My-Filters
+! Title: My Filters
+! Expires: 1 days 
+! Version: 1.0
+! Last modified: 21/6/2017
+! test 
+
 vozforums.com##DIV[style="margin: 0 auto; padding-top: 10px; width: 970px;"]
 vozforums.com##DIV[style="text-align: center; padding-top: 10px; margin: 0 0 0 -10px;"]
 vozforums.com###div-gpt-ad-1329873929986-10
