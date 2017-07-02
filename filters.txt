@@ -594,3 +594,15 @@ truyencv.com###geniee_overray_base
 
 ! 6/21/2017, 11:14:31 PM truyencv.com
 ||xid.i-mobile.co.jp
+
+! 6/21/2017, 11:15:52 PM truyencv.com
+||c.evidon.com
+
+! 6/21/2017, 11:22:01 PM truyencv.com
+||truyencv.com/cdn-cgi
+
+vozforums.com##div[style="text-align: center; padding-bottom: 10px; margin: 0px auto; width: 728px; height: 90px;"]
+
+! 7/2/2017, 10:15:13 AM wikidich.com
+||wikidich.com/static/js/adx$script,first-party
+
