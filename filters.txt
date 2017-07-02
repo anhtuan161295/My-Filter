@@ -539,7 +539,7 @@ www.unknowncheats.me###easylistmad
 www.unknowncheats.me###Table1 > tbody > tr > .alt1
 
 ! 2/20/2017, 1:40:01 PM http://truyencv.com/toi-cuong-tu-luyen-he-thong/chuong-544/
-truyencv.com##div(class*=miencao)
+truyencv.com##div(class*="miencao")
 
 ! 3/15/2017, 3:30:15 PM vuatamquoc.com
 ||vuatamquoc.com/landing$popup,first-party
@@ -585,6 +585,8 @@ comicvn.net###SC_TBlock_324703
 
 ! 6/21/2017, 10:24:42 PM http://comicvn.net/truyen-tranh-online/nguoi-trong-giang-ho-raw/chapter-2035-dai-phi-may-chet-chac-290417
 comicvn.net##div:nth-of-type(7) > .fade
+
+comicvn.net##div[id*="bcode"]
 
 ! 6/21/2017, 11:06:17 PM http://truyencv.com/vo-lam-ban-hiep-truyen/chuong-79/
 truyencv.com###geniee_overray_base
