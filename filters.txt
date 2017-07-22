@@ -608,3 +608,5 @@ vozforums.com##div[style="text-align: center; padding-bottom: 10px; margin: 0px 
 ! 7/2/2017, 10:15:13 AM wikidich.com
 ||wikidich.com/static/js/adx$script,first-party
 
+! 7/15/2017, 9:26:20 AM http://truyencv.com/toi-cuong-he-thong/chuong-227/
+truyencv.com###js-truyencv-read-content > div:nth-of-type(2)
