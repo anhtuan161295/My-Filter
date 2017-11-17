@@ -611,3 +611,15 @@ vozforums.com##div[style="text-align: center; padding-bottom: 10px; margin: 0px 
 ! 7/15/2017, 9:26:20 AM http://truyencv.com/toi-cuong-he-thong/chuong-227/
 truyencv.com###js-truyencv-read-content > div:nth-of-type(2)
 
+! 7/20/2017, 11:06:08 AM http://www.journaldev.com/7146/apache-httpclient-example-closeablehttpclient
+www.journaldev.com##.k91e9c-hide.k91e9c-2.k91e9c-container
+
+! 8/9/2017, 11:59:20 AM http://www.journaldev.com/2532/javamail-example-send-mail-in-java-smtp
+www.journaldev.com##.k8bf11-hide.k8bf11-2.k8bf11-container
+
+! 8/16/2017, 5:22:20 PM http://www.journaldev.com/2509/java-datasource-jdbc-datasource-example
+www.journaldev.com##.kf22fc-hide.kf22fc-2.kf22fc-container
+
+! 11/17/2017, 1:50:42 PM truyencv.com
+||shareads.net^
+
